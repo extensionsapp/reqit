@@ -1,0 +1,32 @@
+{
+  "name": "reqit",
+  "version": "1.0.1",
+  "description": "Simple request and get only HTTP-status, title and body page.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/extensionsapp/reqit.git"
+  },
+  "keywords": [
+    "request",
+    "title",
+    "status",
+    "simple"
+  ],
+  "author": {
+    "name": "ExtensionsApp",
+    "email": "extensionsapp@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/extensionsapp/reqit/issues"
+  },
+  "homepage": "https://github.com/extensionsapp/reqit#readme",
+  "dependencies": {
+    "iconv-lite": "latest"
+  }
+}
